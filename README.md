@@ -1,5 +1,4 @@
-# Pat2-Subtask-1
-Morse Code 
+Morse Code Research 
 Morse code is a system of encoding text as a series of on-off tones, clicks, or light flashes that can be used for communication over a telegraph or other communication device.
 
 ## Morse Code Chart:
